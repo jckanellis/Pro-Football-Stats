@@ -1,0 +1,217 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+
+
+ body {
+   --margin: 0;
+   --padding: 0;
+   font-family: 'Numans' sans-serif;
+   background: url('Login Page Background.jpg') no-repeat center center fixed;
+   background-size: cover;
+ }
+
+.form-background {
+   max-width: 480px;
+   width: 90%;
+   position: absolute;
+   border-radius: 5px;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   --color: white;
+   background-color: rgba(0,0,0,0.5);
+   animation: fadeInAnimation ease 1s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+ }
+
+ @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+.logo, .logo-signed-out {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 60%;
+ }
+
+ #logo-signed-in {
+   margin-right: 10px;
+ }
+
+
+ .btn {
+   width: 100%;
+   background: none;
+   border: 2px solid #A5ACAF;
+   color: white;
+   padding: 5px;
+   font-size: 18px;
+   cursor: pointer;
+   margin: 12px 0;
+ }
+
+ .remember_me {
+   margin-left: 10px;
+   color: white;
+   font-size: 18px;
+ }
+
+ .form-check-input {
+   width: 20px;
+   height: 20px;
+   margin-right: 5px;
+ }
+
+ .links a {
+   display: block;
+   text-align: center;
+   font-size: 18px;
+   color: white;
+ }
+
+ .alert-error {
+    background-color: #f2dede;
+    border-color: #eed3d7;
+    color: #b94a48;
+    text-align: left;
+ }
+
+.alert-alert {
+    background-color: #f2dede;
+    border-color: #eed3d7;
+    color: #b94a48;
+    text-align: left;
+ }
+
+.alert-success {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #468847;
+    text-align: left;
+ }
+
+.alert-notice {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #468847;
+    margin: 10px;
+    text-align: left;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    right: 0;
+ }
+
+ .text-danger {
+    color: #dc3545!important;
+    background-color: #f8d7da;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 3px;
+    animation: fadeInAnimation ease 1s;
+             animation-iteration-count: 1;
+             animation-fill-mode: forwards;
+}
+
+#error_explanation {
+  color: #dc3545!important;
+  background-color: #f8d7da;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 3px;
+  animation: fadeInAnimation ease 1s;
+           animation-iteration-count: 1;
+           animation-fill-mode: forwards;
+}
+
+ #app-navbar {
+   background-color: rgba(0,0,0,.5);
+   transition: background-color 1s ease 0s;
+   animation: fadeInAnimation ease 1s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+ }
+
+ #player-navbar {
+   border-top: 1px solid grey;
+   transition: background-color 1s ease 0s;
+   background-color: rgba(0,0,0,0.5);
+   animation: fadeInAnimation ease 1s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+ }
+
+ #team-navbar {
+   border-top: 1px solid grey;
+   transition: background-color 1s ease 0s;
+   background-color: rgba(0,0,0,0.5);
+   animation: fadeInAnimation ease 1s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+ }
+
+ .datagrid {
+   padding: 30px;
+   border-radius: 5px;
+   background-color: rgba(255,255,255,1);
+   animation: fadeInAnimation ease 1s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+ }
+
+ .nav-link {
+   cursor: pointer;
+   -webkit-transition: all 0.4s;
+   -moz-transition: all 0.4s;
+   transition: all 0.4s;
+ }
+
+ .navbar-dark .navbar-nav .nav-link {
+     color: rgba(255,255,255,.6);
+ }
+
+ #stat-table_filter input {
+   width: 150px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+ }
+
+ #stat-table_filter input:focus {
+   width: 100%;
+ }
+
+ #app-navbar.solid, #player-navbar.solid, #team-navbar.solid {
+   background-color: rgba(0,0,0,1);
+   transition: background-color 1s ease 0s;
+   box-shadow: 0 0 4px grey;
+}
+
+th, .notes, .footer, #stat-table_paginate {
+  font-size: 13px;
+}
+
+td {
+  font-size: 12px;
+}

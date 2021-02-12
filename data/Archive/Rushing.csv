@@ -1,0 +1,100 @@
+﻿'Derrick Henry ','TEN',26,16,16,378,2027,17,current_timestamp,current_timestamp
+'Dalvin Cook','MIN',25,14,14,312,1557,16,current_timestamp,current_timestamp
+'Josh Jacobs','LVR',22,15,15,273,1065,12,current_timestamp,current_timestamp
+'David Montgomery','CHI',23,15,14,247,1070,8,current_timestamp,current_timestamp
+'Ezekiel Elliott','DAL',25,15,15,244,979,6,current_timestamp,current_timestamp
+'James Robinson','JAX',22,14,14,240,1070,7,current_timestamp,current_timestamp
+'Kenyan Drake','ARI',26,15,13,239,955,10,current_timestamp,current_timestamp
+'Jonathan Taylor','IND',21,15,13,232,1169,11,current_timestamp,current_timestamp
+'Melvin Gordon','DEN',27,15,10,215,986,9,current_timestamp,current_timestamp
+'Aaron Jones','GNB',26,14,14,201,1104,9,current_timestamp,current_timestamp
+'Kareem Hunt','CLE',25,16,5,198,841,6,current_timestamp,current_timestamp
+'Todd Gurley','ATL',26,15,15,195,678,9,current_timestamp,current_timestamp
+'Ronald Jones II','TAM',23,14,13,192,978,7,current_timestamp,current_timestamp
+'Nick Chubb','CLE',25,12,12,190,1067,12,current_timestamp,current_timestamp
+'Frank Gore','NYJ',37,15,14,187,653,2,current_timestamp,current_timestamp
+'Alvin Kamara ','NOR',25,15,10,187,932,16,current_timestamp,current_timestamp
+'Clyde Edwards-Helaire','KAN',21,13,13,181,803,4,current_timestamp,current_timestamp
+'Antonio Gibson','WAS',22,14,10,170,795,11,current_timestamp,current_timestamp
+'James Conner','PIT',25,13,11,169,721,6,current_timestamp,current_timestamp
+'Mike Davis','CAR',27,15,12,165,642,6,current_timestamp,current_timestamp
+'Miles Sanders','PHI',23,12,11,164,867,6,current_timestamp,current_timestamp
+'Lamar Jackson','BAL',23,15,15,159,1005,7,current_timestamp,current_timestamp
+'Adrian Peterson','DET',35,16,10,156,604,7,current_timestamp,current_timestamp
+'Devin Singletary','BUF',23,16,16,156,687,2,current_timestamp,current_timestamp
+'Wayne Gallman','NYG',26,15,10,147,682,6,current_timestamp,current_timestamp
+'David Johnson','HOU',29,12,12,147,691,6,current_timestamp,current_timestamp
+'Latavius Murray','NOR',30,15,7,146,656,4,current_timestamp,current_timestamp
+'Cam Akers','LAR',21,13,5,145,625,2,current_timestamp,current_timestamp
+'Gus Edwards','BAL',25,16,6,144,723,6,current_timestamp,current_timestamp
+'Myles Gaskin','MIA',23,10,7,142,584,3,current_timestamp,current_timestamp
+'Chris Carson','SEA',26,12,12,141,681,5,current_timestamp,current_timestamp
+'Darrell Henderson','LAR',23,15,11,138,624,5,current_timestamp,current_timestamp
+'Damien Harris','NWE',23,10,10,137,691,2,current_timestamp,current_timestamp
+'Cam Newton','NWE',31,15,15,137,592,12,current_timestamp,current_timestamp
+'J.K. Dobbins','BAL',22,15,1,134,805,9,current_timestamp,current_timestamp
+'Kyler Murray ','ARI',23,16,16,133,819,11,current_timestamp,current_timestamp
+'Jeff Wilson','SFO',25,12,3,126,600,7,current_timestamp,current_timestamp
+'Giovani Bernard','CIN',29,16,10,124,416,3,current_timestamp,current_timestamp
+'Joe Mixon','CIN',24,6,6,119,428,3,current_timestamp,current_timestamp
+'Jamaal Williams','GNB',25,14,3,119,505,2,current_timestamp,current_timestamp
+'Phillip Lindsay','DEN',26,11,8,118,502,1,current_timestamp,current_timestamp
+'Austin Ekeler','LAC',25,10,10,116,530,1,current_timestamp,current_timestamp
+'D'Andre Swift','DET',21,13,4,114,521,8,current_timestamp,current_timestamp
+'Zack Moss','BUF',23,13,0,112,481,4,current_timestamp,current_timestamp
+'Joshua Kelley','LAC',23,14,0,111,354,2,current_timestamp,current_timestamp
+'Benny Snell Jr.','PIT',22,16,3,111,368,4,current_timestamp,current_timestamp
+'Raheem Mostert','SFO',28,8,8,104,521,2,current_timestamp,current_timestamp
+'Josh Allen ','BUF',24,16,16,102,421,8,current_timestamp,current_timestamp
+'Malcolm Brown','LAR',27,16,0,101,419,5,current_timestamp,current_timestamp
+'Tony Pollard','DAL',23,16,2,101,435,4,current_timestamp,current_timestamp
+'Brian Hill','ATL',25,16,1,100,465,1,current_timestamp,current_timestamp
+'Chase Edmonds','ARI',24,16,2,97,448,1,current_timestamp,current_timestamp
+'Leonard Fournette','TAM',25,13,3,97,367,6,current_timestamp,current_timestamp
+'Alexander Mattison','MIN',22,13,2,96,434,2,current_timestamp,current_timestamp
+'Peyton Barber','WAS',26,16,2,94,258,4,current_timestamp,current_timestamp
+'Devontae Booker','LVR',28,16,1,93,423,3,current_timestamp,current_timestamp
+'Kalen Ballage','2TM',25,11,2,91,303,3,current_timestamp,current_timestamp
+'Deshaun Watson ','HOU',25,16,16,90,444,3,current_timestamp,current_timestamp
+'Nyheim Hines','IND',24,16,2,89,380,3,current_timestamp,current_timestamp
+'Taysom Hill','NOR',30,16,8,87,457,8,current_timestamp,current_timestamp
+'J.D. McKissic','WAS',27,16,7,85,365,1,current_timestamp,current_timestamp
+'Jordan Wilkins','IND',26,15,0,84,308,1,current_timestamp,current_timestamp
+'Russell Wilson ','SEA',32,16,16,83,513,2,current_timestamp,current_timestamp
+'Le'Veon Bell','2TM',28,11,4,82,328,2,current_timestamp,current_timestamp
+'Carlos Hyde','SEA',30,10,1,81,356,4,current_timestamp,current_timestamp
+'Jerick McKinnon','SFO',28,16,4,81,319,5,current_timestamp,current_timestamp
+'Boston Scott','PHI',25,16,4,80,374,1,current_timestamp,current_timestamp
+'Sony Michel','NWE',25,9,6,79,449,1,current_timestamp,current_timestamp
+'Duke Johnson','HOU',27,11,5,77,235,1,current_timestamp,current_timestamp
+'Salvon Ahmed','MIA',22,6,4,75,319,3,current_timestamp,current_timestamp
+'Mark Ingram','BAL',31,11,9,72,299,2,current_timestamp,current_timestamp
+'Rex Burkhead','NWE',30,10,0,67,274,3,current_timestamp,current_timestamp
+'Daniel Jones','NYG',23,14,14,65,423,1,current_timestamp,current_timestamp
+'Cordarrelle Patterson','CHI',29,16,3,64,232,1,current_timestamp,current_timestamp
+'La'Mical Perine','NYJ',22,10,0,64,232,2,current_timestamp,current_timestamp
+'Jalen Hurts','PHI',22,15,4,63,354,3,current_timestamp,current_timestamp
+'Samaje Perine','CIN',25,16,1,63,301,3,current_timestamp,current_timestamp
+'Ito Smith','ATL',25,14,0,63,268,1,current_timestamp,current_timestamp
+'Patrick Mahomes ','KAN',25,15,15,62,308,2,current_timestamp,current_timestamp
+'Matt Breida','MIA',25,12,1,59,254,0,current_timestamp,current_timestamp
+'Justin Jackson','LAC',24,9,4,59,270,0,current_timestamp,current_timestamp
+'Christian McCaffrey','CAR',24,3,3,59,225,5,current_timestamp,current_timestamp
+'Justin Herbert','LAC',22,15,15,55,234,5,current_timestamp,current_timestamp
+'Alfred Morris','NYG',32,9,0,55,238,1,current_timestamp,current_timestamp
+'Devonta Freeman','NYG',28,5,4,54,172,1,current_timestamp,current_timestamp
+'Ty Johnson','2TM',23,13,1,54,254,1,current_timestamp,current_timestamp
+'Baker Mayfield','CLE',25,16,16,54,165,1,current_timestamp,current_timestamp
+'Teddy Bridgewater','CAR',28,15,15,53,279,5,current_timestamp,current_timestamp
+'Kerryon Johnson','DET',23,16,2,52,181,2,current_timestamp,current_timestamp
+'Carson Wentz','PHI',28,12,12,52,276,5,current_timestamp,current_timestamp
+'Jared Goff','LAR',26,15,15,51,99,4,current_timestamp,current_timestamp
+'Jeremy McNichols','TEN',25,16,0,47,204,1,current_timestamp,current_timestamp
+'AJ Dillon','GNB',22,11,0,46,242,2,current_timestamp,current_timestamp
+'Drew Lock','DEN',24,13,13,44,160,3,current_timestamp,current_timestamp
+'Ryan Tannehill','TEN',32,16,16,43,266,7,current_timestamp,current_timestamp
+'Curtis Samuel','CAR',24,15,5,41,200,2,current_timestamp,current_timestamp
+'Rodney Smith','CAR',24,7,1,41,156,1,current_timestamp,current_timestamp
+'Derek Carr','LVR',29,16,16,39,140,3,current_timestamp,current_timestamp
+'Jamycal Hasty','SFO',24,8,0,39,148,1,current_timestamp,current_timestamp
+'Darrel Williams','KAN',25,16,0,39,169,1,current_timestamp,current_timestamp

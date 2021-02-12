@@ -1,0 +1,2 @@
+class Teampassing < ApplicationRecord
+end

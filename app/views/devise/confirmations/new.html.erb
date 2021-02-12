@@ -1,0 +1,26 @@
+
+
+<div class="form-background">
+  <div class="container p-3">
+    <div class="logo">
+      <%= image_tag ('nfl-league-logo-small.png'), class: "logo-signed-out" %>
+    </div>
+    <%= form_for(resource, as: resource_name, url: confirmation_path(resource_name), html: { method: :post, id: "form" }) do |f| %>
+
+        <%= render "devise/shared/error_messages", resource: resource %>
+
+      <div class="field">
+        <%= f.email_field :email, autofocus: true, placeholder: "name@example.com", class: "form-control", autocomplete: "email", value: (resource.pending_reconfirmation? ? resource.unconfirmed_email : resource.email) %> <br>
+      </div>
+
+      <div class="actions">
+        <%= f.submit "Resend confirmation instructions", class: "btn" %>
+      </div>
+
+      <div class="links">
+        <%= link_to "Back to Sign Up", new_registration_path(resource_name) %> <br>
+        <%= link_to "Sign In", new_session_path(resource_name) %>
+      </div>
+    <% end %>
+  </div>
+</div>

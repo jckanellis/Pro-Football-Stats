@@ -1,0 +1,2 @@
+class Playerreceiving < ApplicationRecord
+end

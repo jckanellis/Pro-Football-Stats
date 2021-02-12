@@ -1,0 +1,2 @@
+class Playerpassing < ApplicationRecord
+end

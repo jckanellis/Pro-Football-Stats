@@ -1,0 +1,2 @@
+class Teamrushing < ApplicationRecord
+end

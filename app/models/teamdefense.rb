@@ -1,0 +1,2 @@
+class Teamdefense < ApplicationRecord
+end

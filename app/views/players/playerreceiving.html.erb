@@ -1,0 +1,46 @@
+<%= render "layouts/navbar" %>
+<%= render "layouts/playernavbar" %>
+
+<div class="datagrid" id="DT-div" style="display:none;">
+  <table id="stat-table" class="table table-striped table-bordered dt-responsive nowrap display compact">
+    <thead>
+      <tr>
+        <th>Season</th>
+        <th>Player Name</th>
+        <th>Team</th>
+        <th>Age</th>
+        <th>Games Played</th>
+        <th>Games Started</th>
+        <th>Targets</th>
+        <th>Receptions</th>
+        <th>Yards</th>
+        <th>Touchdowns</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @playerreceiving.each do |receiving| %>
+        <tr>
+          <td><%= receiving.season %></td>
+          <td><%= receiving.player_name %></td>
+          <td><%= receiving.team %></td>
+          <td><%= receiving.age %></td>
+          <td><%= receiving.games_played %></td>
+          <td><%= receiving.games_started %></td>
+          <td><%= receiving.targets %></td>
+          <td><%= receiving.receptions %></td>
+          <td><%= receiving.yards %></td>
+          <td><%= receiving.touchdowns %></td>
+        </tr>
+      <% end %>
+    </tbody>
+    <tfoot>
+      <div class="notes">
+        * Pro Bowl season <br>
+        + All Pro season
+      </div>
+    </tfoot>
+  </table>
+  <div class="footer">
+    <a href="https://www.pro-football-reference.com/">Stats provided by Pro Football Reference</a>
+  </div>
+</div>

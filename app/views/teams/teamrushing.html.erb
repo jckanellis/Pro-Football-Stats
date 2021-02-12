@@ -1,0 +1,29 @@
+<%= render "layouts/navbar" %>
+<%= render "layouts/teamnavbar" %>
+
+<div class="datagrid" id="DT-div" style="display:none;">
+  <table id="stat-table" class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+      <tr>
+        <th>Team</th>
+        <th>Conference</th>
+        <th>Attempts</th>
+        <th>First Downs</th>
+        <th>Yards</th>
+        <th>Touchdowns</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @teamrushing.each do |rushing| %>
+        <tr>
+          <td><%= rushing.team %></td>
+          <td><%= rushing.conference %></td>
+          <td><%= rushing.attempts %></td>
+          <td><%= rushing.firstdowns %></td>
+          <td><%= rushing.yards %></td>
+          <td><%= rushing.touchdowns %></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</div>

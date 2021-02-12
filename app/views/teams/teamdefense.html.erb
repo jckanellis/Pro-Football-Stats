@@ -1,0 +1,31 @@
+<%= render "layouts/navbar" %>
+<%= render "layouts/teamnavbar" %>
+
+<div class="datagrid" id="DT-div" style="display:none;">
+  <table id="stat-table" class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+      <tr>
+        <th>Team</th>
+        <th>Conference</th>
+        <th>Takeaways</th>
+        <th>Passing Yards Allowed</th>
+        <th>Passing Touchdowns Allowed</th>
+        <th>Rushing Yards Allowed</th>
+        <th>Rushing Touchdowns Allowed</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @teamdefense.each do |defense| %>
+        <tr>
+          <td><%= defense.team %></td>
+          <td><%= defense.conference %></td>
+          <td><%= defense.takeaways %></td>
+          <td><%= defense.allowedpassingyards %></td>
+          <td><%= defense.allowedpassingtouchdowns %></td>
+          <td><%= defense.allowedrushingyards %></td>
+          <td><%= defense.allowedrushingtouchdowns %></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,28 @@
+<body>
+  <%= devise_error_messages! %>
+  <div class="form-background">
+    <div class= "container p-3">
+      <div class="logo">
+        <%= image_tag ('nfl-league-logo-small.png'), class: "logo-signed-out" %>
+      </div>
+      <%= form_for(resource, as: resource_name, url: session_path(resource_name), html: {id: "form"}) do |f| %>
+        <div class="form-group">
+          <%= f.email_field :email, autofocus: true, autocomplete: "off", placeholder: "name@example.com", class: "form-control" %><br>
+        </div>
+
+        <div class="form-group">
+          <%= f.password_field :password, autocomplete: "off", placeholder: "Password", class: "form-control" %>
+        </div>
+
+        <div class="actions">
+          <%= f.submit "Sign In", class: "btn" %>
+        </div>
+      <% end %>
+
+      <div class="links">
+        <%= link_to "Forgot your password?", new_password_path(resource_name) %> <br>
+        <%= link_to "Don't have an account? Click here to sign up", new_registration_path(resource_name) %>
+      </div>
+    </div>
+  </div>
+</body>
