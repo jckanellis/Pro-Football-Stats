@@ -27,17 +27,17 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: fantasy_football_site
+  database: pro_football_stats
   pool: 5
-  username: postgres
+  username: pro_football_stats
   password: Delta123
   timeout: 5000
 
 test:
   adapter: postgresql
   encoding: unicode
-  database: fantasy_football_site
+  database: pro_football_stats
   pool: 5
-  username: postgres
+  username: pro_football_stats
   password: Delta123
   timeout: 5000
