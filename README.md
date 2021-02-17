@@ -1,24 +1,7 @@
-# README
+# Pro Football Stats
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple web app where users can create accounts, log in and view NFL player/team stats from the 2000 season to present
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version: 2.3.3
+* Rails version: 5.1.7
+* PostgreSQL version: 4.21
