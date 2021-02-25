@@ -5,6 +5,7 @@
   <table id="stat-table" class="table table-striped table-bordered dt-responsive nowrap">
     <thead>
       <tr>
+        <th>Season</th>
         <th>Team</th>
         <th>Conference</th>
         <th>Attempts</th>
@@ -16,6 +17,7 @@
     <tbody>
       <% @teamrushing.each do |rushing| %>
         <tr>
+          <td><%= rushing.season %></td>
           <td><%= rushing.team %></td>
           <td><%= rushing.conference %></td>
           <td><%= rushing.attempts %></td>

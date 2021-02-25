@@ -5,6 +5,7 @@
   <table id="stat-table" class="table table-striped table-bordered dt-responsive nowrap">
     <thead>
       <tr>
+        <th>Season</th>
         <th>Team</th>
         <th>Conference</th>
         <th>Completions</th>
@@ -18,6 +19,7 @@
     <tbody>
       <% @teampassing.each do |passing| %>
         <tr>
+          <td><%= passing.season %></td>
           <td><%= passing.team %></td>
           <td><%= passing.conference %></td>
           <td><%= passing.completions %></td>
