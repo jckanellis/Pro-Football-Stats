@@ -24,6 +24,16 @@
 #  <<: *default
 #  database: db/production.sqlite3
 
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: pro_football_stats
+  pool: 5
+  username: pro_football_stats
+  password: <%= ENV['DB_PASSWORD'] %>
+  timeout: 5000
+
+
 development:
   adapter: postgresql
   encoding: unicode
