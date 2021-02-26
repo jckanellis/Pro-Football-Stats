@@ -30,7 +30,7 @@ development:
   database: pro_football_stats
   pool: 5
   username: pro_football_stats
-  password: Delta123
+  password: <%= ENV['DB_PASSWORD'] %>
   timeout: 5000
 
 test:
@@ -39,5 +39,5 @@ test:
   database: pro_football_stats
   pool: 5
   username: pro_football_stats
-  password: Delta123
+  password: <%= ENV['DB_PASSWORD'] %>
   timeout: 5000

@@ -11,6 +11,7 @@ gem 'rails', '~> 5.1.7'
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3', '~> 1.3.6'
 gem 'pg'
+gem 'figaro'
 gem 'devise'
 gem 'dotenv-rails'
 # Use Puma as the app server
