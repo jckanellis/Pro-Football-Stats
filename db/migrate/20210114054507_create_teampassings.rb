@@ -1,8 +1,0 @@
-class CreateTeampassings < ActiveRecord::Migration[5.1]
-  def change
-    create_table :teampassings do |t|
-
-      t.timestamps
-    end
-  end
-end
