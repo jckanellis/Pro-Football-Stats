@@ -1,0 +1,670 @@
+﻿current_timestamp,current_timestamp,'Green Bay Packers','NFC',372,526,216,4106,48,5,2020
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',410,596,240,4620,40,11,2020
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',410,626,238,4626,42,12,2020
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',316,485,203,3653,33,7,2020
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',370,522,199,3758,28,8,2020
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',420,630,255,4854,40,7,2020
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',257,406,142,2739,27,11,2020
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',388,563,216,3941,40,13,2020
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',371,552,201,4053,24,11,2020
+current_timestamp,current_timestamp,'Las Vegas Raiders','AFC',369,551,206,4217,28,10,2020
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',349,516,212,4009,35,13,2020
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',428,656,206,4003,35,11,2020
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',387,575,211,3916,27,13,2020
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',315,501,195,3539,27,8,2020
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',370,559,207,3736,24,13,2020
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',408,628,243,4363,27,11,2020
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',413,639,231,4161,25,13,2020
+current_timestamp,current_timestamp,'Houston Texans','AFC',383,546,222,4538,33,7,2020
+current_timestamp,current_timestamp,'Los Angeles Chargers','AFC',413,627,226,4329,31,10,2020
+current_timestamp,current_timestamp,'Detroit Lions','NFC',374,582,220,4104,27,13,2020
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',371,570,217,4033,25,17,2020
+current_timestamp,current_timestamp,'Los Angeles Rams','NFC',392,590,206,4014,20,14,2020
+current_timestamp,current_timestamp,'Chicago Bears','NFC',402,614,218,3655,26,16,2020
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',373,550,192,3888,16,16,2020
+current_timestamp,current_timestamp,'Washington Football Team','NFC',389,601,184,3465,16,16,2020
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',334,598,177,3327,22,20,2020
+current_timestamp,current_timestamp,'New England Patriots','AFC',283,440,157,2890,12,14,2020
+current_timestamp,current_timestamp,'Denver Broncos','AFC',317,556,176,3451,21,23,2020
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',372,581,201,3448,19,11,2020
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',387,616,205,3699,25,16,2020
+current_timestamp,current_timestamp,'New York Giants','NFC',321,517,178,3026,12,11,2020
+current_timestamp,current_timestamp,'New York Jets','AFC',292,499,146,2796,16,14,2020
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',289,440,171,3225,37,8,2019
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',331,478,195,3792,28,13,2019
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',382,630,244,4845,33,30,2019
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',418,581,230,4244,36,6,2019
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',378,576,211,4498,30,5,2019
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',388,597,229,4751,30,11,2019
+current_timestamp,current_timestamp,'New England Patriots','AFC',378,620,197,3961,25,9,2019
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',319,466,171,3523,26,8,2019
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',341,517,190,3791,31,6,2019
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',297,448,177,3582,29,8,2019
+current_timestamp,current_timestamp,'Los Angeles Rams','NFC',397,632,222,4499,22,17,2019
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',391,613,215,3833,27,8,2019
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',459,684,258,4714,29,15,2019
+current_timestamp,current_timestamp,'Houston Texans','AFC',355,534,203,3783,27,14,2019
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',356,573,190,3733,26,4,2019
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',355,554,176,3477,20,12,2019
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',307,513,165,3108,22,10,2019
+current_timestamp,current_timestamp,'Detroit Lions','NFC',344,571,196,3900,28,15,2019
+current_timestamp,current_timestamp,'New York Giants','NFC',376,607,187,3731,30,17,2019
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',382,633,230,3650,17,21,2019
+current_timestamp,current_timestamp,'Los Angeles Chargers','AFC',394,597,220,4426,24,20,2019
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',318,539,180,3554,22,21,2019
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',299,513,162,3229,21,12,2019
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',367,523,194,3926,22,8,2019
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',371,615,210,3804,22,18,2019
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',364,589,183,3760,24,8,2019
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',315,510,147,2981,18,19,2019
+current_timestamp,current_timestamp,'Denver Broncos','AFC',312,504,162,3115,16,10,2019
+current_timestamp,current_timestamp,'Chicago Bears','NFC',371,580,178,3291,20,12,2019
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',356,616,191,3652,18,16,2019
+current_timestamp,current_timestamp,'New York Jets','AFC',323,521,162,3111,19,16,2019
+current_timestamp,current_timestamp,'Washington Redskins','NFC',298,479,154,2812,18,13,2019
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',385,583,239,4955,50,12,2018
+current_timestamp,current_timestamp,'Los Angeles Rams','NFC',368,568,236,4507,32,12,2018
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',381,519,210,4042,33,7,2018
+current_timestamp,current_timestamp,'New England Patriots','AFC',378,574,206,4258,29,11,2018
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',432,644,237,4461,39,15,2018
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',280,427,156,3093,35,7,2018
+current_timestamp,current_timestamp,'Los Angeles Chargers','AFC',348,512,213,4089,32,12,2018
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',459,689,251,5008,35,17,2018
+current_timestamp,current_timestamp,'Chicago Bears','NFC',344,512,177,3564,28,14,2018
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',428,617,238,4653,36,7,2018
+current_timestamp,current_timestamp,'Houston Texans','AFC',345,506,202,3781,26,9,2018
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',408,625,265,5125,36,26,2018
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',334,556,184,3558,18,9,2018
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',392,640,208,4238,25,4,2018
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',378,563,212,3836,28,16,2018
+current_timestamp,current_timestamp,'New York Giants','NFC',382,583,208,4047,23,12,2018
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',331,542,182,3290,27,13,2018
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',422,599,221,4275,29,11,2018
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',425,606,218,4036,30,10,2018
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',353,574,189,4007,29,17,2018
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',331,532,201,3867,26,20,2018
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',356,527,184,3538,22,8,2018
+current_timestamp,current_timestamp,'New York Jets','AFC',299,524,157,3165,18,19,2018
+current_timestamp,current_timestamp,'Denver Broncos','AFC',367,588,181,3695,19,15,2018
+current_timestamp,current_timestamp,'Detroit Lions','NFC',375,574,201,3576,22,12,2018
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',292,455,153,2900,26,13,2018
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',293,437,156,2975,16,12,2018
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',382,556,197,3751,19,10,2018
+current_timestamp,current_timestamp,'Washington Redskins','NFC',311,509,156,3021,16,15,2018
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',271,499,137,2794,13,23,2018
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',329,536,164,3109,15,13,2018
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',283,495,137,2523,15,18,2018
+current_timestamp,current_timestamp,'Los Angeles Rams','NFC',320,518,185,3831,28,7,2017
+current_timestamp,current_timestamp,'New England Patriots','AFC',389,587,232,4418,32,8,2017
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',341,564,193,3737,38,9,2017
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',386,536,201,4189,23,8,2017
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',316,527,193,3593,21,13,2017
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',363,543,198,4104,26,8,2017
+current_timestamp,current_timestamp,'Detroit Lions','NFC',374,570,210,4183,29,11,2017
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',384,590,217,4380,29,15,2017
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',363,567,168,3030,20,13,2017
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',357,527,196,3753,25,8,2017
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',340,555,183,3657,34,12,2017
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',293,501,167,3077,22,16,2017
+current_timestamp,current_timestamp,'Los Angeles Chargers','AFC',366,583,220,4431,28,11,2017
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',309,493,162,3141,22,13,2017
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',343,530,200,3990,21,12,2017
+current_timestamp,current_timestamp,'Washington Redskins','NFC',347,540,191,3751,27,13,2017
+current_timestamp,current_timestamp,'Houston Texans','AFC',299,525,180,3278,28,17,2017
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',378,605,243,4366,26,14,2017
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',306,496,157,3191,14,17,2017
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',362,607,206,3925,15,15,2017
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',352,562,176,3167,25,18,2017
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',289,476,149,2825,16,10,2017
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',347,558,178,3631,23,14,2017
+current_timestamp,current_timestamp,'New York Jets','AFC',323,510,157,3182,19,12,2017
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',339,598,200,3640,21,18,2017
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',304,510,165,3122,25,12,2017
+current_timestamp,current_timestamp,'Denver Broncos','AFC',332,566,180,3333,19,22,2017
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',373,602,187,3535,24,21,2017
+current_timestamp,current_timestamp,'Chicago Bears','NFC',291,473,144,2811,13,12,2017
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',285,487,148,2892,13,9,2017
+current_timestamp,current_timestamp,'New York Giants','NFC',373,608,178,3479,20,14,2017
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',312,574,157,3228,15,28,2017
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',374,537,239,4725,38,7,2016
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',472,674,265,5074,38,15,2016
+current_timestamp,current_timestamp,'New England Patriots','AFC',368,550,203,4308,32,2,2016
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',403,620,222,4199,40,8,2016
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',325,483,191,3631,25,6,2016
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',383,646,229,4136,28,17,2016
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',379,596,198,4051,29,7,2016
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',370,584,220,4202,32,15,2016
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',349,580,214,4198,33,21,2016
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',286,474,155,3036,17,7,2016
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',381,596,210,4202,33,15,2016
+current_timestamp,current_timestamp,'Washington Redskins','NFC',407,607,226,4758,25,12,2016
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',365,546,197,3740,19,8,2016
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',307,504,175,3541,29,11,2016
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',306,563,194,3685,21,19,2016
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',380,609,192,3585,16,14,2016
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',316,477,167,3500,27,15,2016
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',368,567,203,4124,23,12,2016
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',355,578,220,3926,29,18,2016
+current_timestamp,current_timestamp,'Detroit Lions','NFC',388,594,217,4111,24,10,2016
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',439,679,205,4100,20,16,2016
+current_timestamp,current_timestamp,'Denver Broncos','AFC',339,570,181,3685,20,11,2016
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',414,588,209,3836,20,5,2016
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',364,563,204,3942,18,8,2016
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',369,626,207,3728,24,16,2016
+current_timestamp,current_timestamp,'New York Giants','NFC',377,598,190,3879,26,16,2016
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',287,491,152,2911,21,10,2016
+current_timestamp,current_timestamp,'Houston Texans','AFC',347,583,173,3176,15,16,2016
+current_timestamp,current_timestamp,'Chicago Bears','NFC',347,559,212,3969,19,19,2016
+current_timestamp,current_timestamp,'New York Jets','AFC',311,550,166,3466,16,25,2016
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',338,567,181,3264,15,14,2016
+current_timestamp,current_timestamp,'Los Angeles Rams','NFC',312,536,151,2951,14,20,2016
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',300,501,197,3589,35,10,2015
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',353,562,237,4616,35,13,2015
+current_timestamp,current_timestamp,'New England Patriots','AFC',404,629,230,4587,36,7,2015
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',333,489,190,3790,34,8,2015
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',391,590,207,4603,26,21,2015
+current_timestamp,current_timestamp,'New York Giants','NFC',392,623,208,4347,36,14,2015
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',334,505,191,3923,31,9,2015
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',460,667,247,4970,32,12,2015
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',310,473,155,3255,20,7,2015
+current_timestamp,current_timestamp,'Washington Redskins','NFC',386,555,208,4095,30,11,2015
+current_timestamp,current_timestamp,'New York Jets','AFC',362,604,210,4057,33,16,2015
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',295,465,155,3343,23,9,2015
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',405,623,193,4087,23,18,2015
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',355,607,215,4108,35,18,2015
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',348,573,173,3503,31,8,2015
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',294,454,153,2928,14,9,2015
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',373,605,193,3879,34,14,2015
+current_timestamp,current_timestamp,'Detroit Lions','NFC',420,632,236,4212,33,14,2015
+current_timestamp,current_timestamp,'Denver Broncos','AFC',368,606,201,3970,19,23,2015
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',312,535,201,3852,22,15,2015
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',410,621,230,4379,21,17,2015
+current_timestamp,current_timestamp,'Houston Texans','AFC',358,619,210,3833,29,12,2015
+current_timestamp,current_timestamp,'Chicago Bears','NFC',334,523,177,3663,21,12,2015
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',355,619,195,3704,26,19,2015
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',426,676,211,4271,21,21,2015
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',442,667,230,4591,30,13,2015
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',365,588,194,3811,24,12,2015
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',342,551,195,3503,25,17,2015
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',273,473,126,2805,11,11,2015
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',371,609,192,3782,20,12,2015
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',334,528,175,3471,16,22,2015
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',322,526,154,3316,16,12,2015
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',349,536,222,4261,38,6,2014
+current_timestamp,current_timestamp,'Denver Broncos','AFC',399,607,227,4661,40,15,2014
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',384,621,218,4356,27,21,2014
+current_timestamp,current_timestamp,'New England Patriots','AFC',392,609,228,4121,34,9,2014
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',328,476,205,3784,37,11,2014
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',410,661,251,4894,42,16,2014
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',411,612,243,4825,33,10,2014
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',344,554,194,3819,27,12,2014
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',456,659,258,4764,33,17,2014
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',287,454,160,3250,20,7,2014
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',394,595,226,3729,27,12,2014
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',418,632,233,4553,28,15,2014
+current_timestamp,current_timestamp,'New York Giants','NFC',383,607,218,4272,30,14,2014
+current_timestamp,current_timestamp,'Houston Texans','AFC',295,485,171,3352,22,13,2014
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',323,503,164,3421,20,17,2014
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',320,493,184,3182,18,6,2014
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',380,574,214,4098,31,18,2014
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',363,579,186,3614,23,13,2014
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',327,545,199,3511,23,12,2014
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',322,517,171,3244,17,18,2014
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',327,515,189,3400,20,16,2014
+current_timestamp,current_timestamp,'Detroit Lions','NFC',365,604,210,4030,22,12,2014
+current_timestamp,current_timestamp,'Chicago Bears','NFC',396,609,194,3792,30,19,2014
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',320,568,191,3808,21,12,2014
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',292,487,165,3063,20,10,2014
+current_timestamp,current_timestamp,'Washington Redskins','NFC',364,547,186,4047,18,18,2014
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',274,502,179,3465,12,16,2014
+current_timestamp,current_timestamp,'New York Jets','AFC',287,498,154,2946,16,15,2014
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',301,531,162,3297,21,20,2014
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',299,513,159,3412,20,16,2014
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',365,629,173,3275,22,16,2014
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',325,557,154,3001,15,18,2014
+current_timestamp,current_timestamp,'Denver Broncos','AFC',461,675,293,5444,55,10,2013
+current_timestamp,current_timestamp,'Chicago Bears','NFC',373,579,215,4281,32,13,2013
+current_timestamp,current_timestamp,'New England Patriots','AFC',380,628,225,4087,25,11,2013
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',310,508,197,4110,32,9,2013
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',375,586,213,3954,33,12,2013
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',364,587,205,4136,33,20,2013
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',333,546,179,3340,24,8,2013
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',366,570,201,4268,25,16,2013
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',267,420,160,3236,27,9,2013
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',446,651,244,4918,39,12,2013
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',244,417,148,2979,21,8,2013
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',378,544,230,4328,32,11,2013
+current_timestamp,current_timestamp,'Detroit Lions','NFC',371,634,221,4482,29,19,2013
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',350,582,191,3725,23,10,2013
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',325,546,173,3427,18,19,2013
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',363,574,205,4002,24,22,2013
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',377,586,207,4017,28,14,2013
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',292,473,169,3043,24,13,2013
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',328,533,172,3496,22,16,2013
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',445,659,227,4243,26,17,2013
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',301,506,165,3125,22,11,2013
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',299,522,149,3103,16,15,2013
+current_timestamp,current_timestamp,'Washington Redskins','NFC',355,611,198,3751,20,19,2013
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',298,519,168,3340,17,20,2013
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',363,619,189,3590,19,23,2013
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',357,594,205,3567,24,19,2013
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',379,681,200,4040,26,20,2013
+current_timestamp,current_timestamp,'New York Giants','NFC',325,567,176,3588,18,29,2013
+current_timestamp,current_timestamp,'New York Jets','AFC',266,480,154,2932,13,22,2013
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',291,514,157,2820,22,12,2013
+current_timestamp,current_timestamp,'Houston Texans','AFC',371,633,198,3813,19,22,2013
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',349,592,176,3441,16,21,2013
+current_timestamp,current_timestamp,'New England Patriots','AFC',402,641,256,4662,34,9,2012
+current_timestamp,current_timestamp,'Denver Broncos','AFC',402,588,232,4534,37,11,2012
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',423,671,267,4997,43,19,2012
+current_timestamp,current_timestamp,'Washington Redskins','NFC',291,442,171,3422,24,8,2012
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',374,558,213,4049,40,8,2012
+current_timestamp,current_timestamp,'New York Giants','NFC',323,539,187,3825,26,15,2012
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',422,615,247,4509,32,14,2012
+current_timestamp,current_timestamp,'Houston Texans','AFC',354,554,205,3830,22,13,2012
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',259,405,153,3031,27,10,2012
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',334,560,182,3739,22,11,2012
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',289,436,172,3298,23,8,2012
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',335,540,173,3578,28,16,2012
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',311,566,188,3983,27,17,2012
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',300,483,163,2751,18,12,2012
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',434,658,237,4729,29,19,2012
+current_timestamp,current_timestamp,'Chicago Bears','NFC',287,485,163,2999,21,16,2012
+current_timestamp,current_timestamp,'Detroit Lions','NFC',445,740,272,4927,22,17,2012
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',284,490,171,3683,19,12,2012
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',339,628,208,4128,23,18,2012
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',338,528,184,3295,26,15,2012
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',309,511,176,3269,24,17,2012
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',354,574,202,3787,27,14,2012
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',318,540,166,3323,17,16,2012
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',328,566,185,3435,16,18,2012
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',332,557,189,3550,22,14,2012
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',376,629,200,4084,24,16,2012
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',293,504,158,3182,13,13,2012
+current_timestamp,current_timestamp,'New York Jets','AFC',272,493,162,2891,14,19,2012
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',367,618,190,3791,18,15,2012
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',328,586,157,3419,20,17,2012
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',337,608,168,3005,11,21,2012
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',273,475,144,2713,8,20,2012
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',376,552,230,4924,51,8,2011
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',472,662,280,5347,46,14,2011
+current_timestamp,current_timestamp,'New England Patriots','AFC',402,612,262,5084,39,12,2011
+current_timestamp,current_timestamp,'Detroit Lions','NFC',423,666,244,4814,41,16,2011
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',312,519,175,3829,21,17,2011
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',366,582,234,4426,27,20,2011
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',365,594,215,4192,29,13,2011
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',330,554,197,4110,22,25,2011
+current_timestamp,current_timestamp,'New York Giants','NFC',359,589,216,4734,29,16,2011
+current_timestamp,current_timestamp,'Houston Texans','AFC',288,467,176,3506,20,9,2011
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',277,451,150,2930,18,5,2011
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',314,544,181,3423,21,12,2011
+current_timestamp,current_timestamp,'New York Jets','AFC',310,547,173,3297,26,18,2011
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',356,578,180,3703,24,25,2011
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',376,570,219,4201,33,12,2011
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',315,524,186,3962,20,23,2011
+current_timestamp,current_timestamp,'Chicago Bears','NFC',268,473,153,3011,18,20,2011
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',308,535,160,3340,21,14,2011
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',286,510,159,2957,20,17,2011
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',280,469,166,3091,20,13,2011
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',353,584,185,3923,22,14,2011
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',341,539,221,4054,21,15,2011
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',299,509,153,3105,15,14,2011
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',307,550,175,3567,21,23,2011
+current_timestamp,current_timestamp,'Denver Broncos','AFC',217,429,130,2434,20,13,2011
+current_timestamp,current_timestamp,'Washington Redskins','NFC',346,591,204,3773,19,24,2011
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',365,588,180,3650,17,24,2011
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',240,469,122,2179,12,15,2011
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',302,534,170,2995,14,14,2011
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',320,570,173,3090,16,13,2011
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',299,500,163,3080,13,18,2011
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',292,549,159,2870,9,10,2011
+current_timestamp,current_timestamp,'New England Patriots','AFC',331,507,196,3847,37,5,2010
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',359,544,236,4519,30,13,2010
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',348,561,189,3906,28,13,2010
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',450,679,253,4609,33,17,2010
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',361,577,200,3567,28,9,2010
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',279,491,159,3180,18,16,2010
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',379,576,201,4042,29,19,2010
+current_timestamp,current_timestamp,'New York Giants','NFC',339,539,192,3885,31,25,2010
+current_timestamp,current_timestamp,'Houston Texans','AFC',365,574,222,4144,24,12,2010
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',352,541,204,4124,31,13,2010
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',450,661,236,4441,33,22,2010
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',298,479,175,3601,22,9,2010
+current_timestamp,current_timestamp,'New York Jets','AFC',288,525,171,3242,20,14,2010
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',274,475,167,2968,27,8,2010
+current_timestamp,current_timestamp,'Detroit Lions','NFC',383,633,199,3810,26,16,2010
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',308,491,175,3335,25,10,2010
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',273,474,155,3107,24,15,2010
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',291,469,161,3065,26,21,2010
+current_timestamp,current_timestamp,'Denver Broncos','AFC',334,580,204,4038,25,12,2010
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',306,494,172,3361,26,6,2010
+current_timestamp,current_timestamp,'Chicago Bears','NFC',276,466,163,3015,23,21,2010
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',365,590,206,3767,26,20,2010
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',324,544,159,3341,14,20,2010
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',282,500,149,3356,19,15,2010
+current_timestamp,current_timestamp,'Washington Redskins','NFC',349,605,194,3931,21,19,2010
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',354,590,179,3268,18,15,2010
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',285,561,154,2921,10,19,2010
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',296,519,166,3158,24,21,2010
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',305,505,159,3097,14,26,2010
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',335,557,189,3527,17,21,2010
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',296,478,154,2989,13,18,2010
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',256,484,125,2289,9,21,2010
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',378,544,215,4355,34,12,2009
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',377,553,220,4156,34,7,2009
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',357,553,201,4180,30,8,2009
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',338,519,222,4338,29,10,2009
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',335,553,182,4089,27,13,2009
+current_timestamp,current_timestamp,'New England Patriots','AFC',390,592,222,4436,28,13,2009
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',402,601,241,4515,34,19,2009
+current_timestamp,current_timestamp,'New York Giants','NFC',338,542,194,4019,28,14,2009
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',321,510,187,3419,21,13,2009
+current_timestamp,current_timestamp,'Houston Texans','AFC',399,593,231,4654,29,17,2009
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',392,594,215,4016,27,18,2009
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',351,536,210,4148,28,14,2009
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',332,570,192,3571,26,17,2009
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',347,550,203,4287,26,9,2009
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',331,545,188,3170,15,19,2009
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',271,476,154,3031,16,15,2009
+current_timestamp,current_timestamp,'New York Jets','AFC',210,393,131,2380,12,21,2009
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',312,528,137,3052,23,14,2009
+current_timestamp,current_timestamp,'Chicago Bears','NFC',340,563,170,3473,27,27,2009
+current_timestamp,current_timestamp,'Denver Broncos','AFC',341,558,186,3627,21,13,2009
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',264,465,152,2799,16,20,2009
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',286,477,159,2890,21,13,2009
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',296,536,139,2922,18,17,2009
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',315,519,170,3356,15,10,2009
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',372,609,184,3503,20,19,2009
+current_timestamp,current_timestamp,'Washington Redskins','NFC',340,533,191,3490,21,16,2009
+current_timestamp,current_timestamp,'Detroit Lions','NFC',316,585,168,3168,16,32,2009
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',256,441,126,2515,17,19,2009
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',219,443,118,2076,11,18,2009
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',279,524,148,2973,18,29,2009
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',255,485,131,2557,10,18,2009
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',312,543,159,2686,12,21,2009
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',413,636,232,4977,34,18,2008
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',312,478,191,3858,34,11,2008
+current_timestamp,current_timestamp,'New York Giants','NFC',298,491,176,3177,23,10,2008
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',418,630,231,4674,31,15,2008
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',343,541,182,3813,28,13,2008
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',362,606,204,3911,23,16,2008
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',246,414,152,3158,15,12,2008
+current_timestamp,current_timestamp,'New England Patriots','AFC',339,534,186,3569,21,11,2008
+current_timestamp,current_timestamp,'New York Jets','AFC',347,529,186,3303,22,23,2008
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',265,434,157,3336,16,11,2008
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',261,433,147,2808,16,12,2008
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',267,452,150,2956,22,17,2008
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',393,585,220,4094,27,12,2008
+current_timestamp,current_timestamp,'Chicago Bears','NFC',304,528,153,3061,20,14,2008
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',265,453,143,2819,13,9,2008
+current_timestamp,current_timestamp,'Denver Broncos','AFC',386,620,223,4471,25,18,2008
+current_timestamp,current_timestamp,'Houston Texans','AFC',367,555,210,4267,21,20,2008
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',328,547,171,3789,29,20,2008
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',355,562,184,3619,18,13,2008
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',303,506,179,3301,19,15,2008
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',330,491,184,3632,20,7,2008
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',309,509,176,3379,21,19,2008
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',309,479,167,3040,14,15,2008
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',335,537,183,3332,15,13,2008
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',262,474,142,2617,18,15,2008
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',310,541,161,3129,23,16,2008
+current_timestamp,current_timestamp,'Detroit Lions','NFC',281,509,143,2960,18,19,2008
+current_timestamp,current_timestamp,'Washington Redskins','NFC',318,510,165,3025,14,6,2008
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',222,421,123,2369,13,11,2008
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',292,520,140,2947,11,19,2008
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',238,488,127,2380,11,20,2008
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',303,513,145,2406,11,15,2008
+current_timestamp,current_timestamp,'New England Patriots','AFC',403,586,243,4731,50,9,2007
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',342,531,217,4105,36,19,2007
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',355,551,212,4033,32,14,2007
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',383,578,210,4334,30,15,2007
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',281,471,158,3005,22,16,2007
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',288,469,180,3328,28,8,2007
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',356,590,210,4065,32,24,2007
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',305,545,192,3726,29,20,2007
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',282,442,179,3071,34,14,2007
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',371,590,211,3964,30,13,2007
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',373,575,213,4012,26,20,2007
+current_timestamp,current_timestamp,'Houston Texans','AFC',346,529,190,3751,24,21,2007
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',440,652,232,4314,28,18,2007
+current_timestamp,current_timestamp,'New York Giants','NFC',302,544,167,3154,23,20,2007
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',249,432,139,2745,12,14,2007
+current_timestamp,current_timestamp,'Detroit Lions','NFC',368,587,203,3878,19,22,2007
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',350,577,186,3755,24,15,2007
+current_timestamp,current_timestamp,'Washington Redskins','NFC',319,525,192,3463,18,11,2007
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',316,490,162,3357,18,8,2007
+current_timestamp,current_timestamp,'Chicago Bears','NFC',327,569,168,3362,18,21,2007
+current_timestamp,current_timestamp,'Denver Broncos','AFC',326,515,187,3584,21,15,2007
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',288,464,171,2878,9,17,2007
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',260,451,133,2631,17,20,2007
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',341,557,175,3035,13,14,2007
+current_timestamp,current_timestamp,'New York Jets','AFC',310,512,173,3014,15,19,2007
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',318,558,162,3031,12,16,2007
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',285,505,142,2735,19,17,2007
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',333,574,193,3233,19,28,2007
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',336,555,161,3293,18,15,2007
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',263,445,141,2634,12,14,2007
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',335,563,171,3181,17,20,2007
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',274,513,140,2320,15,17,2007
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',287,466,169,3262,24,9,2006
+current_timestamp,current_timestamp,'Chicago Bears','NFC',282,514,161,3281,24,22,2006
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',362,557,241,4308,31,9,2006
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',310,506,197,3836,26,21,2006
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',372,580,207,4503,27,13,2006
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',323,544,189,4119,31,9,2006
+current_timestamp,current_timestamp,'New England Patriots','AFC',326,527,181,3400,25,12,2006
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',327,523,200,3833,28,13,2006
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',266,446,147,2882,17,14,2006
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',371,592,212,3962,24,8,2006
+current_timestamp,current_timestamp,'New York Giants','NFC',301,523,163,3058,24,18,2006
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',328,524,179,3435,21,14,2006
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',312,523,201,3733,23,23,2006
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',292,512,167,3054,26,22,2006
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',272,450,184,3000,18,12,2006
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',226,447,133,2596,13,19,2006
+current_timestamp,current_timestamp,'Denver Broncos','AFC',256,454,151,2799,20,18,2006
+current_timestamp,current_timestamp,'New York Jets','AFC',313,488,161,3153,17,16,2006
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',322,545,187,3662,17,17,2006
+current_timestamp,current_timestamp,'Washington Redskins','NFC',274,470,150,3027,19,10,2006
+current_timestamp,current_timestamp,'Detroit Lions','NFC',372,596,208,3820,21,22,2006
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',350,630,185,3795,18,18,2006
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',268,431,132,2719,19,14,2006
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',257,444,132,2685,16,16,2006
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',222,416,133,2371,21,15,2006
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',332,540,160,3123,13,20,2006
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',325,539,158,3264,19,17,2006
+current_timestamp,current_timestamp,'Houston Texans','AFC',329,481,156,2778,14,13,2006
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',342,591,180,3287,16,19,2006
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',318,512,153,2898,15,25,2006
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',296,535,133,2798,14,18,2006
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',263,483,144,2420,7,24,2006
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',307,474,192,3458,25,10,2005
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',347,515,217,4096,31,11,2005
+current_timestamp,current_timestamp,'New York Giants','NFC',294,558,172,3578,24,17,2005
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',362,538,203,3820,32,14,2005
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',338,526,191,3495,27,16,2005
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',317,507,182,3810,17,10,2005
+current_timestamp,current_timestamp,'Denver Broncos','AFC',279,465,162,3227,18,7,2005
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',269,449,157,3271,25,16,2005
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',228,379,144,2926,21,14,2005
+current_timestamp,current_timestamp,'New England Patriots','AFC',352,564,204,4120,28,15,2005
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',392,599,209,4036,23,24,2005
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',283,487,170,3190,21,6,2005
+current_timestamp,current_timestamp,'Washington Redskins','NFC',278,481,166,3106,25,11,2005
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',247,451,149,2679,19,13,2005
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',300,500,177,3341,23,17,2005
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',291,556,159,3300,22,16,2005
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',419,670,224,4437,21,21,2005
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',337,620,182,3677,21,20,2005
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',323,510,169,3146,18,16,2005
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',303,487,161,2890,17,14,2005
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',358,594,191,3597,20,14,2005
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',383,626,206,3766,20,30,2005
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',316,591,189,3582,21,14,2005
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',269,459,129,2515,18,16,2005
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',335,562,163,3088,17,21,2005
+current_timestamp,current_timestamp,'Houston Texans','AFC',270,449,142,2237,15,13,2005
+current_timestamp,current_timestamp,'Chicago Bears','NFC',219,418,111,2002,11,15,2005
+current_timestamp,current_timestamp,'Detroit Lions','NFC',297,520,151,2848,15,18,2005
+current_timestamp,current_timestamp,'New York Jets','AFC',268,470,146,2642,11,15,2005
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',204,389,96,1898,8,21,2005
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',308,553,182,3343,15,24,2005
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',297,497,149,3047,15,17,2005
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',353,527,238,4623,51,10,2004
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',370,561,228,4406,27,17,2004
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',288,450,160,3357,29,8,2004
+current_timestamp,current_timestamp,'New England Patriots','AFC',293,485,193,3588,29,14,2004
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',382,598,228,4449,36,19,2004
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',380,552,225,4516,39,12,2004
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',262,461,149,2817,21,17,2004
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',336,547,188,3979,32,11,2004
+current_timestamp,current_timestamp,'Denver Broncos','AFC',303,521,184,3999,27,20,2004
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',324,536,172,3301,23,22,2004
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',228,358,147,2720,20,13,2004
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',304,532,189,3539,23,18,2004
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',311,536,192,3643,29,15,2004
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',309,542,177,3587,21,16,2004
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',356,589,200,3616,27,19,2004
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',217,395,120,2412,15,16,2004
+current_timestamp,current_timestamp,'New York Jets','AFC',282,438,163,3050,19,11,2004
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',330,582,176,3858,24,22,2004
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',372,580,203,4253,23,22,2004
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',258,465,135,2312,13,11,2004
+current_timestamp,current_timestamp,'Houston Texans','AFC',286,471,174,3246,16,14,2004
+current_timestamp,current_timestamp,'New York Giants','NFC',269,475,143,2818,12,13,2004
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',340,512,175,3474,24,18,2004
+current_timestamp,current_timestamp,'Detroit Lions','NFC',285,505,142,2916,19,13,2004
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',308,519,171,3428,19,23,2004
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',299,533,152,2882,14,18,2004
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',251,439,125,2824,21,21,2004
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',309,586,165,3065,19,26,2004
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',305,513,161,3159,17,11,2004
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',325,561,172,3136,16,21,2004
+current_timestamp,current_timestamp,'Washington Redskins','NFC',288,514,156,2632,18,17,2004
+current_timestamp,current_timestamp,'Chicago Bears','NFC',249,471,121,2192,9,16,2004
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',339,536,201,3981,24,12,2003
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',377,600,211,3961,23,23,2003
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',381,569,212,4179,29,10,2003
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',310,473,166,3240,32,21,2003
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',315,502,211,3878,30,9,2003
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',333,520,194,3951,32,13,2003
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',317,521,190,3618,27,16,2003
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',217,415,121,2255,16,19,2003
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',299,511,172,3408,25,15,2003
+current_timestamp,current_timestamp,'Denver Broncos','AFC',280,479,162,2969,19,18,2003
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',279,484,156,3020,17,11,2003
+current_timestamp,current_timestamp,'New England Patriots','AFC',320,537,177,3432,23,13,2003
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',324,520,181,3342,26,15,2003
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',314,535,177,3438,25,8,2003
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',270,460,146,3050,19,16,2003
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',297,525,146,3021,21,19,2003
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',257,450,145,2792,17,19,2003
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',369,592,190,3805,27,22,2003
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',306,532,174,3304,19,17,2003
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',230,460,127,2408,14,21,2003
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',294,510,149,3162,17,21,2003
+current_timestamp,current_timestamp,'Washington Redskins','NFC',283,527,156,3006,21,16,2003
+current_timestamp,current_timestamp,'New York Jets','AFC',312,496,181,3316,20,14,2003
+current_timestamp,current_timestamp,'Chicago Bears','NFC',271,515,143,2617,12,20,2003
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',303,515,163,3285,17,17,2003
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',278,521,140,2751,9,14,2003
+current_timestamp,current_timestamp,'Detroit Lions','NFC',319,588,152,2924,17,24,2003
+current_timestamp,current_timestamp,'Houston Texans','AFC',248,439,127,2655,14,18,2003
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',313,509,153,2834,17,18,2003
+current_timestamp,current_timestamp,'New York Giants','NFC',344,616,184,3383,16,20,2003
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',293,502,150,2684,11,17,2003
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',303,534,147,2959,18,22,2003
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',292,477,179,3622,27,13,2002
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',418,619,226,4475,26,10,2002
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',291,538,169,3441,27,15,2002
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',318,548,164,3384,27,11,2002
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',268,479,163,3167,18,12,2002
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',361,580,197,3627,29,16,2002
+current_timestamp,current_timestamp,'Denver Broncos','AFC',359,554,199,3824,21,20,2002
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',350,551,200,3832,26,22,2002
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',337,558,191,3685,19,23,2002
+current_timestamp,current_timestamp,'New England Patriots','AFC',374,605,184,3577,28,14,2002
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',377,612,218,3995,24,15,2002
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',271,455,155,2890,18,15,2002
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',354,571,182,3457,23,10,2002
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',306,500,182,3320,22,15,2002
+current_timestamp,current_timestamp,'New York Jets','AFC',329,485,190,3418,25,10,2002
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',361,587,208,4078,19,16,2002
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',392,591,213,4055,27,19,2002
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',348,567,172,3445,23,10,2002
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',338,552,171,3412,27,22,2002
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',324,538,166,3188,17,16,2002
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',268,462,156,2762,18,9,2002
+current_timestamp,current_timestamp,'New York Giants','NFC',338,549,195,3951,19,14,2002
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',262,479,145,2847,20,14,2002
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',408,635,219,4154,24,27,2002
+current_timestamp,current_timestamp,'Washington Redskins','NFC',300,559,165,3254,24,20,2002
+current_timestamp,current_timestamp,'Detroit Lions','NFC',277,577,150,2994,19,25,2002
+current_timestamp,current_timestamp,'Chicago Bears','NFC',310,543,156,3051,22,18,2002
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',350,591,186,3476,17,22,2002
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',291,548,148,2740,18,22,2002
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',255,464,133,2694,15,22,2002
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',252,471,129,2621,14,16,2002
+current_timestamp,current_timestamp,'Houston Texans','AFC',235,447,119,2225,11,15,2002
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',379,551,236,4663,37,22,2001
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',349,557,206,3989,27,23,2001
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',318,506,184,3445,32,12,2001
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',364,553,195,3707,27,9,2001
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',314,510,187,3770,32,15,2001
+current_timestamp,current_timestamp,'New England Patriots','AFC',306,482,163,3089,21,15,2001
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',274,454,150,3113,16,12,2001
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',275,453,154,3157,20,19,2001
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',300,522,146,3145,27,14,2001
+current_timestamp,current_timestamp,'Denver Broncos','AFC',312,511,174,2940,26,19,2001
+current_timestamp,current_timestamp,'Chicago Bears','NFC',315,528,153,2952,20,16,2001
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',307,515,179,3558,23,17,2001
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',313,562,184,3514,27,22,2001
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',309,548,177,3505,16,18,2001
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',362,592,189,3323,13,12,2001
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',300,528,178,3665,17,24,2001
+current_timestamp,current_timestamp,'New York Jets','AFC',272,464,151,2741,17,14,2001
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',320,557,180,3314,18,20,2001
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',258,462,141,2836,15,12,2001
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',304,526,177,3449,18,14,2001
+current_timestamp,current_timestamp,'New York Giants','NFC',327,568,189,3558,19,16,2001
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',321,534,181,3240,20,14,2001
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',278,485,165,3308,19,17,2001
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',335,555,179,3576,23,23,2001
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',279,466,139,2801,18,21,2001
+current_timestamp,current_timestamp,'Detroit Lions','NFC',343,609,184,3596,18,24,2001
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',327,557,180,3451,18,20,2001
+current_timestamp,current_timestamp,'Washington Redskins','NFC',235,432,122,2487,13,13,2001
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',314,579,144,2882,12,22,2001
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',210,413,110,2218,14,20,2001
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',322,602,176,3088,12,26,2001
+current_timestamp,current_timestamp,'St. Louis Rams','NFC',380,587,247,5232,37,23,2000
+current_timestamp,current_timestamp,'Denver Broncos','AFC',354,569,223,4243,28,12,2000
+current_timestamp,current_timestamp,'Oakland Raiders','AFC',284,475,177,3306,28,11,2000
+current_timestamp,current_timestamp,'Indianapolis Colts','AFC',357,571,213,4282,33,15,2000
+current_timestamp,current_timestamp,'Minnesota Vikings','NFC',307,495,193,3832,33,18,2000
+current_timestamp,current_timestamp,'Tampa Bay Buccaneers','NFC',237,433,144,2583,18,13,2000
+current_timestamp,current_timestamp,'San Francisco 49ers','NFC',366,583,211,4239,32,10,2000
+current_timestamp,current_timestamp,'Jacksonville Jaguars','AFC',333,545,193,3658,22,15,2000
+current_timestamp,current_timestamp,'Kansas City Chiefs','AFC',342,582,207,4149,29,15,2000
+current_timestamp,current_timestamp,'New Orleans Saints','NFC',298,497,169,3329,22,15,2000
+current_timestamp,current_timestamp,'Green Bay Packers','NFC',348,600,197,3678,21,16,2000
+current_timestamp,current_timestamp,'Philadelphia Eagles','NFC',331,575,182,3124,21,15,2000
+current_timestamp,current_timestamp,'Tennessee Titans','AFC',286,462,167,3266,18,16,2000
+current_timestamp,current_timestamp,'Baltimore Ravens','AFC',287,504,156,2815,20,19,2000
+current_timestamp,current_timestamp,'New York Giants','NFC',311,529,195,3367,22,13,2000
+current_timestamp,current_timestamp,'Miami Dolphins','AFC',243,421,122,2567,15,17,2000
+current_timestamp,current_timestamp,'Pittsburgh Steelers','AFC',217,439,128,2518,12,10,2000
+current_timestamp,current_timestamp,'New York Jets','AFC',352,637,192,3924,23,29,2000
+current_timestamp,current_timestamp,'Seattle Seahawks','NFC',308,507,168,2960,21,21,2000
+current_timestamp,current_timestamp,'Buffalo Bills','AFC',312,546,174,3576,20,10,2000
+current_timestamp,current_timestamp,'Carolina Panthers','NFC',340,566,201,3468,19,19,2000
+current_timestamp,current_timestamp,'Detroit Lions','NFC',277,503,143,2675,14,19,2000
+current_timestamp,current_timestamp,'Dallas Cowboys','NFC',255,445,128,2522,14,21,2000
+current_timestamp,current_timestamp,'Washington Redskins','NFC',343,561,185,3648,18,21,2000
+current_timestamp,current_timestamp,'New England Patriots','AFC',328,565,172,3181,18,15,2000
+current_timestamp,current_timestamp,'San Diego Chargers','AFC',311,578,156,3238,19,30,2000
+current_timestamp,current_timestamp,'Atlanta Falcons','NFC',285,514,156,2780,14,20,2000
+current_timestamp,current_timestamp,'Chicago Bears','NFC',304,542,143,2805,12,16,2000
+current_timestamp,current_timestamp,'Arizona Cardinals','NFC',316,554,156,3250,16,24,2000
+current_timestamp,current_timestamp,'Cincinnati Bengals','AFC',207,454,109,1946,6,14,2000
+current_timestamp,current_timestamp,'Cleveland Browns','AFC',278,483,110,2445,9,19,2000
