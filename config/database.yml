@@ -24,30 +24,54 @@
 #  <<: *default
 #  database: db/production.sqlite3
 
-production:
+default: &default
   adapter: postgresql
   encoding: unicode
-  database: pro_football_stats
-  pool: 5
-  username: pro_football_stats
-  password: <%= ENV['DB_PASSWORD'] %>
-  timeout: 5000
-
-
-development:
-  adapter: postgresql
-  encoding: unicode
-  database: pro_football_stats
-  pool: 5
+  # For details on connection pooling, see Rails configuration guide
+  # http://guides.rubyonrails.org/configuring.html#database-pooling
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   username: pro_football_stats
   password: <%= ENV['DB_PASSWORD'] %>
   timeout: 5000
 
 test:
-  adapter: postgresql
-  encoding: unicode
+  <<: *default
+  database: pro_football_stats_test
+
+development:
+  <<: *default
   database: pro_football_stats
-  pool: 5
-  username: pro_football_stats
-  password: <%= ENV['DB_PASSWORD'] %>
-  timeout: 5000
+
+#development:
+#  adapter: postgresql
+#  encoding: unicode
+#  database: pro_football_stats
+#  pool: 5
+#  username: pro_football_stats
+#  password: <%= ENV['DB_PASSWORD'] %>
+#  timeout: 5000
+
+#test:
+#  adapter: postgresql
+#  encoding: unicode
+#  database: pro_football_stats
+#  pool: 5
+#  username: pro_football_stats
+#  password: <%= ENV['DB_PASSWORD'] %>
+#  timeout: 5000
+
+# On Heroku and other platform providers, you may have a full connection URL
+# available as an environment variable. For example:
+#
+#   DATABASE_URL="postgres://myuser:mypass@localhost/somedatabase"
+#
+# You can use this database configuration with:
+#
+#   production:
+#     url: <%= ENV['DATABASE_URL'] %>
+#
+production:
+  <<: *default
+  database: profootballstats_production
+  username: profootballstats
+  password: <%= ENV['PROFOOTBALLSTATS_DATABASE_PASSWORD'] %>
