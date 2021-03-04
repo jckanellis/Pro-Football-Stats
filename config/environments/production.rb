@@ -35,15 +35,16 @@ Rails.application.configure do
   config.assets.compile = true
 
   config.action_mailer.delivery_method = :smtp
-
+  config.action_mailer.perform_deliveries = true
   config.action_mailer.smtp_settings = {
-     :address => "smtp.gmail.com",
-     :port => 587,
-     :user_name => "donotreplyfootballsite@gmail.com",
-     :password => "G0L@kers",
-     :authentication => :plain,
-     :enable_starttls_auto => true
-}
+    :address => "smtp.sendgrid.net",
+    :domain => "profootballstats.app",
+    :port => 587,
+    :user_name => ENV['SENDGRID_USERNAME'],
+    :password => ENV['SENDGRID_PASSWORD'],
+    :authentication => :plain,
+    :enable_starttls_auto => true
+  }
 
   # `config.assets.precompile` and `config.assets.version` have moved to config/initializers/assets.rb
 
