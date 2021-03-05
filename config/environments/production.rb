@@ -5,7 +5,7 @@ Rails.application.configure do
   config.cache_classes = true
 
 
-  config.action_mailer.default_url_options = { :host => 'https://www.profootballstats.app' }
+  config.action_mailer.default_url_options = { :host => 'profootballstats.app' }
 
   # Eager load code on boot. This eager loads most of Rails and
   # your application in memory, allowing both threaded web servers
