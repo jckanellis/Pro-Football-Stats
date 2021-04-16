@@ -1,4 +1,4 @@
-# Pro Football Stats
+# Pro Football Stats - https://www.profootballstats.app/
 
 Simple web app where users can create accounts, log in and view NFL player/team stats from the 2000 season to present
 
